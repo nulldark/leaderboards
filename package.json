@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": {
     "name": "Dominik Szamburski",
-    "url": "https://nulxrd.github.io/"
+    "url": "https://sxbrsky.github.io/"
   },
   "scripts": {
     "dev": "yarn workspace backend dev",
